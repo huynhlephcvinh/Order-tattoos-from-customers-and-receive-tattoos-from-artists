@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAddOrUpdateTatooStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmArtistDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmArtistManagememt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBillForAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBillFroCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBookingService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBookingTatoo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCheckActiveFromArtist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDateWorkForArtist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHistoryBookingTatoo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHistoryBookService.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStaffDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmStudioStaffManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTatooForStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateProfieArtist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmUpdateProfileCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm\ucLoginAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoginForm\ucLoginArtist.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoginForm\ucLoginStaff.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LoginForm\ucLoginUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
